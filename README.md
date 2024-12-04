@@ -98,10 +98,11 @@ YouTube-Clone/
 
 ## Screenshots
 
-![Screenshot](public\images\Screenshot1.png)
-![Screenshot](public\images\Screenshot2.png)
-![Screenshot](public\images\Screenshot3.png)
-![Screenshot](public\images\Screenshot4.png)
+![Screenshot1](public/images/Screenshot1.png)
+![Screenshot2](public/images/Screenshot2.png)
+![Screenshot3](public/images/Screenshot3.png)
+![Screenshot4](public/images/Screenshot4.png)
+
 
 
 ---
