@@ -98,7 +98,7 @@ YouTube-Clone/
 
 ## Screenshots
 
-![Screenshot](public\images\Screenshot1.png)
+![Screenshot](C:\Web-Dev\React\Youtube 2.O\public\images\Screenshot1.png)
 ![Screenshot](public\images\Screenshot2.png)
 ![Screenshot](public\images\Screenshot3.png)
 ![Screenshot](public\images\Screenshot4.png)
